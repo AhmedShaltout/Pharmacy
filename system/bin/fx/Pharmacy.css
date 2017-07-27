@@ -1,0 +1,77 @@
+#howTo{
+	-fx-background-color: #604050;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font: 20px serif;
+}
+#name{
+	-fx-text-fill: white;
+	-fx-font: 25px serif;
+}
+#nameField{
+	-fx-background-color: silver;
+	-fx-font: 16px serif;
+	-fx-font-weight: bold;
+}
+#howTo2{
+	-fx-background-color: #F5F5F5;
+	-fx-text-fill: #604050;
+	-fx-font-weight: bold;
+	-fx-font: 20px serif;
+}
+#howTo3{
+	-fx-background-color: red;
+	-fx-text-fill: #604050;
+	-fx-font-weight: bold;
+	-fx-font: 20px serif;
+}
+#howTo:hover{
+	-fx-text-fill: silver;
+}
+#howTo2:hover{
+	-fx-text-fill: black;
+	-fx-font-weight: bold;
+}
+#footer{
+	-fx-background-color: #604050;
+	-fx-text-fill: white;
+}
+#glass{
+    -fx-background-color: rgba(0, 60, 100, 0.2);
+    -fx-background-radius: 10;
+}
+#hints{
+	-fx-font-weight: bold;
+	-fx-font: 25px serif;
+	-fx-text-fill: white;
+}
+#header{
+	-fx-background-color: #604050;
+}
+#header2{
+	-fx-background-color: #F5F5F5;
+}
+#about{
+	-fx-text-fill: white;
+	-fx-font: 15px serif;
+}
+#add{
+	-fx-background-color: #008080;
+	-fx-text-fill: white;
+	-fx-font: 15px serif;
+	-fx-font-weight: bold;
+}
+#U_nameField{
+	-fx-text-fill: black;
+	-fx-font: 20px serif;
+	-fx-font-weight: bold;
+}
+#U_locationField{
+	-fx-font: 16px serif;
+	-fx-font-weight: bold;
+}
+#nameColumn{
+	-fx-text-fill: black;
+	-fx-font: 16px serif;
+	-fx-font-weight: bold;
+}
